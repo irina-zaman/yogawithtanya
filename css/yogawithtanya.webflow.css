@@ -1592,6 +1592,14 @@ figcaption {
   object-fit: cover;
 }
 
+.image-grid.hero {
+  transform: translate(0, 1.5rem)scale(1.1);
+}
+
+.image-grid.top {
+  object-position: 50% 0%;
+}
+
 .icon-embed-booking {
   width: 1.5rem;
   height: 1.5rem;
